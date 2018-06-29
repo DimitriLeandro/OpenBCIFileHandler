@@ -2,7 +2,7 @@
 
 Para adicionar esse programa ao menu do seu sistema Linux:
 
-1 - acesse a pasta "Install" deste diretório no GitHub;
+1 - acesse a pasta "Install" deste repositório no GitHub;
 
 2 - baixe a pasta "OpenBCIFileHandler" para a pasta "opt" do seu computador;
 
